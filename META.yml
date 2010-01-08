@@ -20,7 +20,7 @@ no_index:
 provides:
   PDF::FromHTML:
     file: lib/PDF/FromHTML.pm
-    version: 0.30
+    version: 0.31
   PDF::FromHTML::Template:
     file: lib/PDF/FromHTML/Template.pm
     version: 0.30
@@ -92,4 +92,4 @@ requires:
   PDF::Writer: 0.05
   XML::Twig: 0
   perl: 5.6.0
-version: 0.30
+version: 0.31
